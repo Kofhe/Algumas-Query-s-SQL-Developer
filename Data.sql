@@ -1,0 +1,1 @@
+SELECT  To_Char(SYSDATE,'DD/MM/YYYY') FROM dual
